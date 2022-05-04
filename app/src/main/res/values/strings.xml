@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zero Knowledge Proof</string>
+    <string name="BackIcon">Back Icon</string>
+    <string name="pick_number_of_nodes">Pick Number of Nodes:</string>
+    <string name="Number">5</string>
+    <string name="create_graph">Create Graph</string>
+    <string name="colors">Colors</string>
+    <string name="change_graph">Change Graph</string>
+    <string name="graph">Graph</string>
+    <string name="nodes">nodes</string>
+    <string name="reset">Reset</string>
+    <string name="confidence_0">Confidence: 0%</string>
+    <string name="proofer_please_pick_node">Proofer: Please Pick Node</string>
+</resources>
